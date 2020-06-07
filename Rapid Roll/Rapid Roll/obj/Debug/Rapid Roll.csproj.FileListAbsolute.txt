@@ -1,0 +1,18 @@
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\bin\Debug\Rapid Roll.exe.config
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\bin\Debug\Rapid Roll.exe
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\bin\Debug\Rapid Roll.pdb
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\obj\Debug\Rapid_Roll.Form1.resources
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\obj\Debug\Rapid_Roll.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.exe
+C:\Users\Aleksandar\source\repos\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.pdb
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\bin\Debug\Rapid Roll.exe.config
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\bin\Debug\Rapid Roll.exe
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\bin\Debug\Rapid Roll.pdb
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.csprojAssemblyReference.cache
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\obj\Debug\Rapid_Roll.Form1.resources
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\obj\Debug\Rapid_Roll.Properties.Resources.resources
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.csproj.GenerateResource.cache
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.exe
+C:\Users\mahab\Downloads\Rapid Roll\Rapid Roll\obj\Debug\Rapid Roll.pdb
